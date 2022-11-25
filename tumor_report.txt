@@ -1,0 +1,5 @@
+P_ID:46290
+DOB:21-01-2000
+C HISTORY:22 y/o male w history of headaches
+DIAGNOSIs:IDH wildtype.Mutant IDH1=neg.Ki67 index=high.Neg IDH1,IDH2 mut.
+GROSS DESC:tan brown tiss(5.5x4.0x3.0)
